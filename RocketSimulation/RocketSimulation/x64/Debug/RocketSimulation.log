@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Machine\Desktop\Simulation\JakeScrivener\RocketSimulation\RocketSimulation\main.cpp(35,19): warning C4244: 'argument': conversion from 'const UINT' to 'const float', possible loss of data
+C:\Users\Machine\Desktop\Simulation\JakeScrivener\RocketSimulation\RocketSimulation\main.cpp(35,12): warning C4244: 'argument': conversion from 'const UINT' to 'const float', possible loss of data
+  RocketSimulation.vcxproj -> C:\Users\Machine\Desktop\Simulation\JakeScrivener\RocketSimulation\x64\Debug\RocketSimulation.exe
